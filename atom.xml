@@ -4,7 +4,7 @@
   
   <link href="/atom.xml" rel="self"/>
   <link href="http://yoursite.com/"/>
-  <updated>2017-09-12T07:42:33.000Z</updated>
+  <updated>2017-09-12T08:07:29.000Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -19,8 +19,10 @@
     <link href="http://yoursite.com/2017/09/12/%E6%96%B0%E7%9A%84%E5%BC%80%E5%A7%8B/"/>
     <id>http://yoursite.com/2017/09/12/新的开始/</id>
     <published>2017-09-12T06:45:30.000Z</published>
-    <updated>2017-09-12T07:42:33.000Z</updated>
-    <content type="html"><![CDATA[<h1 id="这是新的开始，我用hexo创建了第一篇文章。hexo的正文要求使用markdown的语法，基本格式如下："><a href="#这是新的开始，我用hexo创建了第一篇文章。hexo的正文要求使用markdown的语法，基本格式如下：" class="headerlink" title="这是新的开始，我用hexo创建了第一篇文章。hexo的正文要求使用markdown的语法，基本格式如下："></a>这是<strong>新的开始</strong>，我用hexo创建了第一篇文章。hexo的正文要求使用markdown的语法，基本格式如下：</h1><p>(#标题),(&gt; 引用块)，(<em>无序列表)，(1.有序列表),(——–水平线)，(<a href=""></a>链接)，(<em>*强调</em></em>)，(<code>代码段</code>),(- [ ] 不选中和 -[x] 选中) (‘红色高亮’)</p>
+    <updated>2017-09-12T08:07:29.000Z</updated>
+    <content type="html"><![CDATA[<blockquote>
+<p>这是<strong>新的开始</strong>，我用hexo创建了第一篇文章。hexo的正文要求使用markdown的语法，基本格式如下：<br>(#标题),(&gt; 引用块)，(<em>无序列表)，(1.有序列表),(——–水平线)，(<a href=""></a>链接)，(<em>*强调</em></em>)，(<code>代码段</code>),(- [ ] 不选中和 -[x] 选中) (‘红色高亮’)</p>
+</blockquote>
 <h1 id="在线示例编辑器"><a href="#在线示例编辑器" class="headerlink" title="在线示例编辑器"></a>在线示例编辑器</h1><ul>
 <li><a href="http://marxi.co/" target="_blank" rel="external">http://marxi.co/</a><h1 id="hexo系列教程"><a href="#hexo系列教程" class="headerlink" title="hexo系列教程"></a>hexo系列教程</h1><ul>
 <li><a href="http://zipperary.com/2013/05/28/hexo-guide-2/" target="_blank" rel="external">hexo系列教程：（二）搭建hexo博客</a></li>
@@ -37,7 +39,8 @@
 </blockquote>
 ]]></content>
     <summary type="html">
-    <![CDATA[<h1 id="这是新的开始，我用hexo创建了第一篇文章。hexo的正文要求使用markdown的语法，基本格式如下："><a href="#这是新的开始，我用hexo创建了第一篇文章。hexo的正文要求使用markdown的语法，基本格式如下：" class="headerl]]>
+    <![CDATA[<blockquote>
+<p>这是<strong>新的开始</strong>，我用hexo创建了第一篇文章。hexo的正文要求使用markdown的语法，基本格式如下：<br>(#标题),(&gt; 引用块)，(<em>无序列表)，(1.有序列表),(——–水平线)，(<a h]]>
     </summary>
     
       <category term="开始" scheme="http://yoursite.com/tags/%E5%BC%80%E5%A7%8B/"/>
