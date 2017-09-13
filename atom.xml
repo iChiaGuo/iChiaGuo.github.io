@@ -4,7 +4,7 @@
   <subtitle><![CDATA[爱生活爱编码]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://yoursite.com/"/>
-  <updated>2017-09-12T08:12:25.000Z</updated>
+  <updated>2017-09-13T05:18:52.000Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -13,6 +13,25 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[测试图片]]></title>
+    <link href="http://yoursite.com/2017/09/13/%E6%B5%8B%E8%AF%95%E5%9B%BE%E7%89%87/"/>
+    <id>http://yoursite.com/2017/09/13/测试图片/</id>
+    <published>2017-09-13T05:15:45.000Z</published>
+    <updated>2017-09-13T05:18:52.000Z</updated>
+    <content type="html"><![CDATA[<ol>
+<li><img src="/2017/09/13/测试图片/gxdtp.jpeg" alt="老司机等等我"></li>
+</ol>
+]]></content>
+    <summary type="html">
+    <![CDATA[<ol>
+<li><img src="/2017/09/13/测试图片/gxdtp.jpeg" alt="老司机等等我"></li>
+</ol>
+]]>
+    </summary>
+    
+  </entry>
   
   <entry>
     <title><![CDATA[优秀博文]]></title>
