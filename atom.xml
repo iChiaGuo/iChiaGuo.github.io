@@ -3,9 +3,9 @@
   <title><![CDATA[Jiaguo's Blog]]></title>
   <subtitle><![CDATA[爱生活爱编码]]></subtitle>
   <link href="/atom.xml" rel="self"/>
-  <link href="http://yoursite.com/"/>
+  <link href="http://liujiaguo.top/"/>
   <updated>2017-09-13T07:47:44.000Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>http://liujiaguo.top/</id>
   
   <author>
     <name><![CDATA[Jiaguo Liu]]></name>
@@ -16,8 +16,8 @@
   
   <entry>
     <title><![CDATA[博文中插入图片、音乐、视频]]></title>
-    <link href="http://yoursite.com/2017/09/13/%E5%8D%9A%E6%96%87%E4%B8%AD%E6%8F%92%E5%85%A5%E5%9B%BE%E7%89%87%E3%80%81%E9%9F%B3%E4%B9%90%E3%80%81%E8%A7%86%E9%A2%91/"/>
-    <id>http://yoursite.com/2017/09/13/博文中插入图片、音乐、视频/</id>
+    <link href="http://liujiaguo.top/2017/09/13/%E5%8D%9A%E6%96%87%E4%B8%AD%E6%8F%92%E5%85%A5%E5%9B%BE%E7%89%87%E3%80%81%E9%9F%B3%E4%B9%90%E3%80%81%E8%A7%86%E9%A2%91/"/>
+    <id>http://liujiaguo.top/2017/09/13/博文中插入图片、音乐、视频/</id>
     <published>2017-09-13T05:15:45.000Z</published>
     <updated>2017-09-13T07:47:44.000Z</updated>
     <content type="html"><![CDATA[<h1 id="1-插入图片"><a href="#1-插入图片" class="headerlink" title="1. 插入图片"></a>1. 插入图片</h1><p><img src="/img/gxdtp.jpeg" alt="老司机等等我"></p>
@@ -39,8 +39,8 @@
   
   <entry>
     <title><![CDATA[优秀博文]]></title>
-    <link href="http://yoursite.com/2017/09/12/%E5%80%BC%E5%BE%97%E5%85%B3%E6%B3%A8%E7%9A%84%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/"/>
-    <id>http://yoursite.com/2017/09/12/值得关注的个人博客/</id>
+    <link href="http://liujiaguo.top/2017/09/12/%E5%80%BC%E5%BE%97%E5%85%B3%E6%B3%A8%E7%9A%84%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/"/>
+    <id>http://liujiaguo.top/2017/09/12/值得关注的个人博客/</id>
     <published>2017-09-12T06:50:30.000Z</published>
     <updated>2017-09-12T08:12:25.000Z</updated>
     <content type="html"><![CDATA[<p>1.<a href="https://github.com/ming1016/study/wiki" target="_blank" rel="external">戴铭的wiki</a><br>  <a href="https://maimai.cn/web/feed_detail?src=app&amp;webid=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1IjozMDY5MTYzNSwiaWQiOjE3MDA1NzQxMn0.wbtfnObsbgKzVlrU3BxO5aq-jjgCVijNzzQ1S_Y5MvM&amp;from=timeline&amp;isappinstalled=0" target="_blank" rel="external">个人文章:1年顶3年，我在滴滴克服的技术难题</a></p>
@@ -49,20 +49,20 @@
     <![CDATA[<p>1.<a href="https://github.com/ming1016/study/wiki" target="_blank" rel="external">戴铭的wiki</a><br>  <a href="https://maimai.cn/web/feed_de]]>
     </summary>
     
-      <category term="开始" scheme="http://yoursite.com/tags/%E5%BC%80%E5%A7%8B/"/>
+      <category term="开始" scheme="http://liujiaguo.top/tags/%E5%BC%80%E5%A7%8B/"/>
     
-      <category term="我" scheme="http://yoursite.com/tags/%E6%88%91/"/>
+      <category term="我" scheme="http://liujiaguo.top/tags/%E6%88%91/"/>
     
-      <category term="日记" scheme="http://yoursite.com/tags/%E6%97%A5%E8%AE%B0/"/>
+      <category term="日记" scheme="http://liujiaguo.top/tags/%E6%97%A5%E8%AE%B0/"/>
     
-      <category term="阅读记录" scheme="http://yoursite.com/categories/%E9%98%85%E8%AF%BB%E8%AE%B0%E5%BD%95/"/>
+      <category term="阅读记录" scheme="http://liujiaguo.top/categories/%E9%98%85%E8%AF%BB%E8%AE%B0%E5%BD%95/"/>
     
   </entry>
   
   <entry>
     <title><![CDATA[新的开始]]></title>
-    <link href="http://yoursite.com/2017/09/12/%E6%96%B0%E7%9A%84%E5%BC%80%E5%A7%8B/"/>
-    <id>http://yoursite.com/2017/09/12/新的开始/</id>
+    <link href="http://liujiaguo.top/2017/09/12/%E6%96%B0%E7%9A%84%E5%BC%80%E5%A7%8B/"/>
+    <id>http://liujiaguo.top/2017/09/12/新的开始/</id>
     <published>2017-09-12T06:35:30.000Z</published>
     <updated>2017-09-13T06:52:10.000Z</updated>
     <content type="html"><![CDATA[<blockquote>
@@ -91,13 +91,13 @@
 <p>这是<strong>新的开始</strong>，我用hexo创建了第一篇文章。hexo的正文要求使用markdown的语法，基本格式如下：<br>(#标题),(&gt; 引用块)，(<em>无序列表)，(1.有序列表),(——–水平线)，(<a h]]>
     </summary>
     
-      <category term="开始" scheme="http://yoursite.com/tags/%E5%BC%80%E5%A7%8B/"/>
+      <category term="开始" scheme="http://liujiaguo.top/tags/%E5%BC%80%E5%A7%8B/"/>
     
-      <category term="我" scheme="http://yoursite.com/tags/%E6%88%91/"/>
+      <category term="我" scheme="http://liujiaguo.top/tags/%E6%88%91/"/>
     
-      <category term="日记" scheme="http://yoursite.com/tags/%E6%97%A5%E8%AE%B0/"/>
+      <category term="日记" scheme="http://liujiaguo.top/tags/%E6%97%A5%E8%AE%B0/"/>
     
-      <category term="日志" scheme="http://yoursite.com/categories/%E6%97%A5%E5%BF%97/"/>
+      <category term="日志" scheme="http://liujiaguo.top/categories/%E6%97%A5%E5%BF%97/"/>
     
   </entry>
   
