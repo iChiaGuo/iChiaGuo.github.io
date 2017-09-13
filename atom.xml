@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title><![CDATA[Jiaguo's Blog]]></title>
-  
+  <subtitle><![CDATA[爱生活爱编码]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://yoursite.com/"/>
   <updated>2017-09-12T08:12:25.000Z</updated>
