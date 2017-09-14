@@ -81,7 +81,7 @@
 <p><strong>Privacy Statement: All of your notes data are saved in Evernote. Marxico doesn’t save any of them.</strong> </p>
 </blockquote>
 <h2 id="Feedback-amp-Bug-Report"><a href="#Feedback-amp-Bug-Report" class="headerlink" title="Feedback &amp; Bug Report"></a>Feedback &amp; Bug Report</h2><ul>
-<li>Email: <a href="&#109;&#97;&#x69;&#108;&#x74;&#x6f;&#58;&#x68;&#117;&#115;&#x74;&#103;&#x6f;&#99;&#107;&#x40;&#103;&#x6d;&#97;&#105;&#108;&#46;&#x63;&#x6f;&#x6d;">&#x68;&#117;&#115;&#x74;&#103;&#x6f;&#99;&#107;&#x40;&#103;&#x6d;&#97;&#105;&#108;&#46;&#x63;&#x6f;&#x6d;</a></li>
+<li>Email: <a href="&#x6d;&#97;&#105;&#108;&#116;&#111;&#x3a;&#x68;&#117;&#x73;&#x74;&#103;&#111;&#x63;&#107;&#x40;&#x67;&#x6d;&#97;&#x69;&#x6c;&#46;&#x63;&#x6f;&#109;">&#x68;&#117;&#x73;&#x74;&#103;&#111;&#x63;&#107;&#x40;&#x67;&#x6d;&#97;&#x69;&#x6c;&#46;&#x63;&#x6f;&#109;</a></li>
 </ul>
 <h3 id="插入资源"><a href="#插入资源" class="headerlink" title="插入资源"></a>插入资源</h3><h4 id="1-插入图片"><a href="#1-插入图片" class="headerlink" title="1.插入图片"></a>1.插入图片</h4><p><img src="/img/icon.jpeg" alt="泡泡家族"></p>
 <h4 id="2-插入音乐"><a href="#2-插入音乐" class="headerlink" title="2.插入音乐"></a>2.插入音乐</h4><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="86" src="//music.163.com/outchain/player?type=2&id=5242638&auto=1&height=66"></iframe>
@@ -215,8 +215,12 @@
     <link href="http://liujiaguo.top/2017/09/12/%E6%96%B0%E7%9A%84%E5%BC%80%E5%A7%8B/"/>
     <id>http://liujiaguo.top/2017/09/12/新的开始/</id>
     <published>2017-09-12T06:35:30.000Z</published>
-    <updated>2017-09-14T09:49:47.000Z</updated>
-    <content type="html"><![CDATA[<p><img src="/img/打招呼.gif" alt="大家好"><br><a id="more"></a></p>
+    <updated>2017-09-14T10:58:13.000Z</updated>
+    <content type="html"><![CDATA[<blockquote>
+<p><strong>今天才开始使用个人博客，文章太少，可以看看我的其他平台的文章</strong></p>
+</blockquote>
+<p><img src="/img/打招呼.gif" alt="大家好"></p>
+<a id="more"></a>
 <blockquote>
 <p>这是<strong>新的开始</strong>，我用hexo创建了第一篇文章。hexo的正文要求使用markdown的语法，基本格式如下：<br>(#标题),(&gt; 引用块)，(<em>无序列表)，(1.有序列表),(——–水平线)，(<a href=""></a>链接)，(<em>*强调</em></em>)，(<code>代码段</code>),(- [ ] 不选中和 -[x] 选中) (‘红色高亮’)</p>
 </blockquote>
@@ -234,12 +238,12 @@
 <li><a href="http://www.cnblogs.com/tengj/p/5373069.html" target="_blank" rel="external">hexo干货系列：（八）hexo文章自动隐藏侧边栏</a></li>
 <li><a href="https://zhuanlan.zhihu.com/p/26625249?utm_source=weibo&amp;utm_medium=social" target="_blank" rel="external">GitHub+Hexo 搭建个人网站详细教程</a></li>
 </ul>
-<blockquote>
-<p><strong>今天才开始使用个人博客，文章太少，可以看看我的其他平台的文章</strong></p>
-</blockquote>
 ]]></content>
     <summary type="html">
-    <![CDATA[<p><img src="/img/打招呼.gif" alt="大家好"><br>]]>
+    <![CDATA[<blockquote>
+<p><strong>今天才开始使用个人博客，文章太少，可以看看我的其他平台的文章</strong></p>
+</blockquote>
+<p><img src="/img/打招呼.gif" alt="大家好"></p>]]>
     
     </summary>
     
