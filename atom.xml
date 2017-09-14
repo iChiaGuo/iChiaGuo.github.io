@@ -80,7 +80,7 @@
 <p><strong>Privacy Statement: All of your notes data are saved in Evernote. Marxico doesn’t save any of them.</strong> </p>
 </blockquote>
 <h2 id="Feedback-amp-Bug-Report"><a href="#Feedback-amp-Bug-Report" class="headerlink" title="Feedback &amp; Bug Report"></a>Feedback &amp; Bug Report</h2><ul>
-<li>Email: <a href="&#109;&#x61;&#x69;&#108;&#x74;&#x6f;&#58;&#104;&#x75;&#115;&#116;&#103;&#111;&#x63;&#107;&#64;&#x67;&#109;&#x61;&#105;&#x6c;&#x2e;&#99;&#111;&#109;">&#104;&#x75;&#115;&#116;&#103;&#111;&#x63;&#107;&#64;&#x67;&#109;&#x61;&#105;&#x6c;&#x2e;&#99;&#111;&#109;</a></li>
+<li>Email: <a href="&#109;&#97;&#105;&#x6c;&#116;&#111;&#x3a;&#104;&#x75;&#115;&#116;&#103;&#x6f;&#99;&#x6b;&#64;&#103;&#x6d;&#x61;&#105;&#108;&#x2e;&#99;&#x6f;&#109;">&#104;&#x75;&#115;&#116;&#103;&#x6f;&#99;&#x6b;&#64;&#103;&#x6d;&#x61;&#105;&#108;&#x2e;&#99;&#x6f;&#109;</a></li>
 </ul>
 <h3 id="插入资源"><a href="#插入资源" class="headerlink" title="插入资源"></a>插入资源</h3><h4 id="1-插入图片"><a href="#1-插入图片" class="headerlink" title="1.插入图片"></a>1.插入图片</h4><p><img src="/img/icon.jpeg" alt="泡泡家族"></p>
 <h4 id="2-插入音乐"><a href="#2-插入音乐" class="headerlink" title="2.插入音乐"></a>2.插入音乐</h4><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="86" src="//music.163.com/outchain/player?type=2&id=5242638&auto=1&height=66"></iframe>
@@ -217,8 +217,9 @@
     <link href="http://liujiaguo.top/2017/09/12/%E6%96%B0%E7%9A%84%E5%BC%80%E5%A7%8B/"/>
     <id>http://liujiaguo.top/2017/09/12/新的开始/</id>
     <published>2017-09-12T06:35:30.000Z</published>
-    <updated>2017-09-14T01:36:47.000Z</updated>
-    <content type="html"><![CDATA[<blockquote>
+    <updated>2017-09-14T04:57:03.000Z</updated>
+    <content type="html"><![CDATA[<p><img src="/img/打招呼.gif" alt="大家好"></p>
+<blockquote>
 <p>这是<strong>新的开始</strong>，我用hexo创建了第一篇文章。hexo的正文要求使用markdown的语法，基本格式如下：<br>(#标题),(&gt; 引用块)，(<em>无序列表)，(1.有序列表),(——–水平线)，(<a href=""></a>链接)，(<em>*强调</em></em>)，(<code>代码段</code>),(- [ ] 不选中和 -[x] 选中) (‘红色高亮’)</p>
 </blockquote>
 <h1 id="在线示例编辑器"><a href="#在线示例编辑器" class="headerlink" title="在线示例编辑器"></a>在线示例编辑器</h1><ul>
@@ -240,8 +241,9 @@
 </blockquote>
 ]]></content>
     <summary type="html">
-    <![CDATA[<blockquote>
-<p>这是<strong>新的开始</strong>，我用hexo创建了第一篇文章。hexo的正文要求使用markdown的语法，基本格式如下：<br>(#标题),(&gt; 引用块)，(<em>无序列表)，(1.有序列表),(——–水平线)，(<a h]]>
+    <![CDATA[<p><img src="/img/打招呼.gif" alt="大家好"></p>
+<blockquote>
+<p>这是<strong>新的开始</strong>，我用hexo创建了第一篇文章。hexo的正文要求使用markdown的语法，基本格式如下：<br>(#标题),(&g]]>
     </summary>
     
       <category term="Hexo" scheme="http://liujiaguo.top/tags/Hexo/"/>
