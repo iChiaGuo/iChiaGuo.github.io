@@ -5,44 +5,19 @@
     
   <url>
     <loc>http://liujiaguo.top/2017/09/13/%E4%B8%BAhexo%E7%9A%84yilia%E4%B8%BB%E9%A2%98%E6%B7%BB%E5%8A%A0disqus%E8%AF%84%E8%AE%BA/</loc>
-    <lastmod>2017-09-13T13:27:24.000Z</lastmod>
+    <lastmod>2017-09-14T01:36:52.000Z</lastmod>
     <data>
         <display>
         <title>为hexo的yilia主题添加disqus评论</title>
         <pubTime>2017-09-13T13:21:45.000Z</pubTime>
         
+        <tag>Hexo</tag>
+         
          
            
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://liujiaguo.top/2017/09/13/%E5%8D%9A%E6%96%87%E4%B8%AD%E6%8F%92%E5%85%A5%E5%9B%BE%E7%89%87%E3%80%81%E9%9F%B3%E4%B9%90%E3%80%81%E8%A7%86%E9%A2%91/</loc>
-    <lastmod>2017-09-13T12:30:27.000Z</lastmod>
-    <data>
-        <display>
-        <title>博文中插入图片、音乐、视频</title>
-        <pubTime>2017-09-13T05:15:45.000Z</pubTime>
-        
-         
-           
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://liujiaguo.top/2017/09/13/hexo%E6%8F%90%E4%BA%A4%E6%90%9C%E7%B4%A2%E5%BC%95%E6%93%8E%EF%BC%88%E8%B0%B7%E6%AD%8C-%E7%99%BE%E5%BA%A6%EF%BC%89/</loc>
-    <lastmod>2017-09-13T12:30:10.000Z</lastmod>
-    <data>
-        <display>
-        <title>Hexo 博客的 yilia 主题配置----hexo提交搜索引擎（谷歌+百度）</title>
-        <pubTime>2017-09-13T11:42:17.000Z</pubTime>
-        
-         
-           
+             
+              <breadCrumb title="日志" url="http://liujiaguo.top/categories/%E6%97%A5%E5%BF%97/"/>
+          
         </display>
     </data>
     </url>
@@ -50,17 +25,37 @@
     
   <url>
     <loc>http://liujiaguo.top/2017/09/12/%E6%96%B0%E7%9A%84%E5%BC%80%E5%A7%8B/</loc>
-    <lastmod>2017-09-13T06:52:10.000Z</lastmod>
+    <lastmod>2017-09-14T01:36:47.000Z</lastmod>
     <data>
         <display>
         <title>新的开始</title>
         <pubTime>2017-09-12T06:35:30.000Z</pubTime>
         
+        <tag>Hexo</tag>
+         
         <tag>开始</tag>
          
         <tag>我</tag>
          
-        <tag>日记</tag>
+         
+           
+             
+              <breadCrumb title="日志" url="http://liujiaguo.top/categories/%E6%97%A5%E5%BF%97/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://liujiaguo.top/2017/09/13/hexo%E6%8F%90%E4%BA%A4%E6%90%9C%E7%B4%A2%E5%BC%95%E6%93%8E%EF%BC%88%E8%B0%B7%E6%AD%8C-%E7%99%BE%E5%BA%A6%EF%BC%89/</loc>
+    <lastmod>2017-09-14T01:36:42.000Z</lastmod>
+    <data>
+        <display>
+        <title>Hexo 博客的 yilia 主题配置----hexo提交搜索引擎（谷歌+百度）</title>
+        <pubTime>2017-09-13T11:42:17.000Z</pubTime>
+        
+        <tag>Hexo</tag>
          
          
            
@@ -74,15 +69,13 @@
     
   <url>
     <loc>http://liujiaguo.top/2017/09/12/%E5%80%BC%E5%BE%97%E5%85%B3%E6%B3%A8%E7%9A%84%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</loc>
-    <lastmod>2017-09-12T08:12:25.000Z</lastmod>
+    <lastmod>2017-09-14T01:36:39.000Z</lastmod>
     <data>
         <display>
         <title>优秀博文</title>
         <pubTime>2017-09-12T06:50:30.000Z</pubTime>
         
-        <tag>开始</tag>
-         
-        <tag>我</tag>
+        <tag>iOS</tag>
          
         <tag>日记</tag>
          
@@ -90,6 +83,26 @@
            
              
               <breadCrumb title="阅读记录" url="http://liujiaguo.top/categories/%E9%98%85%E8%AF%BB%E8%AE%B0%E5%BD%95/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://liujiaguo.top/2017/09/13/%E5%8D%9A%E6%96%87%E4%B8%AD%E6%8F%92%E5%85%A5%E5%9B%BE%E7%89%87%E3%80%81%E9%9F%B3%E4%B9%90%E3%80%81%E8%A7%86%E9%A2%91/</loc>
+    <lastmod>2017-09-14T01:36:32.000Z</lastmod>
+    <data>
+        <display>
+        <title>博文中插入图片、音乐、视频</title>
+        <pubTime>2017-09-13T05:15:45.000Z</pubTime>
+        
+        <tag>Hexo</tag>
+         
+         
+           
+             
+              <breadCrumb title="日志" url="http://liujiaguo.top/categories/%E6%97%A5%E5%BF%97/"/>
           
         </display>
     </data>
