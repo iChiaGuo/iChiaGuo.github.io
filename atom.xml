@@ -81,7 +81,7 @@
 <p><strong>Privacy Statement: All of your notes data are saved in Evernote. Marxico doesn’t save any of them.</strong> </p>
 </blockquote>
 <h2 id="Feedback-amp-Bug-Report"><a href="#Feedback-amp-Bug-Report" class="headerlink" title="Feedback &amp; Bug Report"></a>Feedback &amp; Bug Report</h2><ul>
-<li>Email: <a href="&#109;&#97;&#105;&#108;&#116;&#x6f;&#58;&#104;&#117;&#x73;&#x74;&#103;&#111;&#99;&#x6b;&#x40;&#x67;&#x6d;&#x61;&#x69;&#x6c;&#46;&#x63;&#111;&#x6d;">&#104;&#117;&#x73;&#x74;&#103;&#111;&#99;&#x6b;&#x40;&#x67;&#x6d;&#x61;&#x69;&#x6c;&#46;&#x63;&#111;&#x6d;</a></li>
+<li>Email: <a href="&#x6d;&#97;&#105;&#108;&#x74;&#111;&#58;&#104;&#117;&#x73;&#x74;&#x67;&#x6f;&#99;&#107;&#64;&#103;&#109;&#97;&#x69;&#x6c;&#46;&#x63;&#x6f;&#109;">&#104;&#117;&#x73;&#x74;&#x67;&#x6f;&#99;&#107;&#64;&#103;&#109;&#97;&#x69;&#x6c;&#46;&#x63;&#x6f;&#109;</a></li>
 </ul>
 <h3 id="插入资源"><a href="#插入资源" class="headerlink" title="插入资源"></a>插入资源</h3><h4 id="1-插入图片"><a href="#1-插入图片" class="headerlink" title="1.插入图片"></a>1.插入图片</h4><p><img src="/img/icon.jpeg" alt="泡泡家族"></p>
 <h4 id="2-插入音乐"><a href="#2-插入音乐" class="headerlink" title="2.插入音乐"></a>2.插入音乐</h4><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="86" src="//music.163.com/outchain/player?type=2&id=5242638&auto=1&height=66"></iframe>
@@ -211,11 +211,11 @@
   </entry>
   
   <entry>
-    <title><![CDATA[新的开始]]></title>
+    <title><![CDATA[新的开始--我怎么搭建自己的个人博客]]></title>
     <link href="http://liujiaguo.top/2017/09/12/%E6%96%B0%E7%9A%84%E5%BC%80%E5%A7%8B/"/>
     <id>http://liujiaguo.top/2017/09/12/新的开始/</id>
     <published>2017-09-12T06:35:30.000Z</published>
-    <updated>2017-09-14T10:58:13.000Z</updated>
+    <updated>2017-09-15T02:35:51.000Z</updated>
     <content type="html"><![CDATA[<blockquote>
 <p><strong>今天才开始使用个人博客，文章太少，可以看看我的其他平台的文章</strong></p>
 </blockquote>
@@ -236,7 +236,9 @@
 <li><a href="http://www.cnblogs.com/tengj/p/5357879.html" target="_blank" rel="external">hexo干货系列：（六）hexo提交搜索引擎（百度+谷歌）</a></li>
 <li><a href="http://www.cnblogs.com/tengj/p/5365434.html" target="_blank" rel="external">hexo干货系列：（七）hexo安装统计插件</a></li>
 <li><a href="http://www.cnblogs.com/tengj/p/5373069.html" target="_blank" rel="external">hexo干货系列：（八）hexo文章自动隐藏侧边栏</a></li>
-<li><a href="https://zhuanlan.zhihu.com/p/26625249?utm_source=weibo&amp;utm_medium=social" target="_blank" rel="external">GitHub+Hexo 搭建个人网站详细教程</a></li>
+<li><p><a href="https://zhuanlan.zhihu.com/p/26625249?utm_source=weibo&amp;utm_medium=social" target="_blank" rel="external">GitHub+Hexo 搭建个人网站详细教程</a></p>
+<p>[#注意]<br>我之前就是按照错误的写法配置，执行hexo - d 指令时总是让我输入github密码。<br><img src="/img/git配置.png" alt="git配置"></p>
+</li>
 </ul>
 ]]></content>
     <summary type="html">
